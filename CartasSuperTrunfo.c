@@ -5,10 +5,6 @@
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
 
 // Definição da struct para a carta do Super Trunfo
-#include <stdio.h>
-#include <string.h>
-
-// Definição da struct para a carta do Super Trunfo
 typedef struct {
     char pais;
     char codigo_carta[5];
